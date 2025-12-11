@@ -369,7 +369,7 @@ flake8 edgerunner.py
 
 ## 👨‍💻 Author
 
-**Nicollas "M1racle" Alcantara** (Enhanced Version)
+**Nicollas "M1racle" Alcantara**
 
 - GitHub: [@niklaz4](https://github.com/niklaz4)
 
