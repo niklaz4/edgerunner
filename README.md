@@ -455,7 +455,7 @@ flake8 edgerunner.py
 - **Code Refactoring** - Cleaner architecture, removed comments
 - **Improved Detection** - Better IPv4/IPv6 handling and filtering
 
-### Version 1.0
+### Version 2.1
 - Initial release with core CDN bypass techniques
 - Multi-threaded scanning architecture
 - Subdomain enumeration
