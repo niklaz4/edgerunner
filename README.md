@@ -56,7 +56,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/edgerunner.git
+git clone https://github.com/niklaz4/edgerunner.git
 cd edgerunner
 
 # Create virtual environment (recommended)
